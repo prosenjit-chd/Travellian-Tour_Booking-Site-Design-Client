@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/yNMC8T3/5-trip-2.png",
+        "type": "Guided Tour",
+        "price": "€99/Day",
+        "title": "Paris City Tour",
+        "days": "7 Days tour"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/L1D1PzT/5-trip-1.png",
+        "type": "Non Tour",
+        "price": "€120/Day",
+        "title": "Rome City Tour",
+        "days": "9 Days tour"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/5hHDNKK/5-trip-3.png",
+        "type": "Normal Tour",
+        "price": "€60/Day",
+        "title": "Berlin City Tour",
+        "days": "5 Days tour"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/L1D1PzT/5-trip-1.png",
+        "type": "VIP Tour",
+        "price": "€170/Day",
+        "title": "Chemnitz City Tour",
+        "days": "14 Days tour"
+    }
+]

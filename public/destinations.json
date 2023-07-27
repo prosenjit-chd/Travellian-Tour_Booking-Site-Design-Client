@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "image": "https://i.ibb.co/G3Btjjt/2-berlin.png",
+            "name": "Monument of Berlin",
+            "address": "Berlin, Germany"
+        },
+        {
+            "id": 2,
+            "image": "https://i.ibb.co/YQwYNDM/2-london.png",
+            "name": "Millennium Bridge",
+            "address": "London, United Kingdom"
+        },
+        {
+            "id": 3,
+            "image": "https://i.ibb.co/3k9PNYn/2-venice.png",
+            "name": "Rialto Bridge",
+            "address": "Venice, Italy"
+        },
+        {
+            "id": 4,
+            "image": "https://i.ibb.co/YQwYNDM/2-london.png",
+            "name": "Millennium Bridge",
+            "address": "London, United Kingdom"
+        }
+    ]
+}

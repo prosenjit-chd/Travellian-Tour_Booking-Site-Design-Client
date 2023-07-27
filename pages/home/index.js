@@ -10,24 +10,27 @@ import React from 'react';
 
 
 const index = () => {
-  return (
-    <>
-      <Banner />
-      <PopularDestination />
-      <SpecialOffer />
-      <MyBlog />
-      <Trips />
-      <Gallery />
-      <Clients /></>
-  );
+    return (
+        <>
+            <Banner />
+            <PopularDestination />
+            <SpecialOffer />
+            <MyBlog />
+            <Trips />
+            <Gallery />
+            <Clients />
+
+
+        </>
+    );
 };
 
 export default index;
 
 index.getLayout = function getLayout(page) {
-  return (
-    <Layouts>
-      {page}
-    </Layouts>
-  );
+    return (
+        <Layouts>
+            {page}
+        </Layouts>
+    );
 };
