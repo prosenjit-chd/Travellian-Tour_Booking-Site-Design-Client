@@ -1,14 +1,16 @@
-# Project Name: Travellian (For online travel booking company)
+# Project Name: Travellian
+ (Travellian Tour Booking Website)
 
-# Live Site Link
-(https://prosenjit-travell.web.app/)
+# Live Site 
+(https://travellian-tour-booking-site-design-client.vercel.app)
 
 ## About Project
 
-- This Project made for those people who want to travel any tourist spot.
-- Here, user can sea different types of travel package, user can book his preferred package using this system.
-- After choosing any travel package user can book this travel package.
-- User can select different types of package. First add one then add another.
-- Without LogIn this system user can't enroll any travel package.
-- User can signUp this system through Gmail.
-- This system store all the information into database and it run its server always.
+- This Project made for a Tour Booking Website.
+- Here, user can see different types of tourist area.
+- user can see travel location
+- user can see Destination
+
+## Dependency
+
+- React Next.js, Tailwind.CSS
